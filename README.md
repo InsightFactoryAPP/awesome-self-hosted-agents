@@ -31,7 +31,7 @@ Agents and services for agents that you can run on your own Linux box.
 - [OpenCode](https://github.com/anomalyco/opencode) - Coding agent for the terminal.
 - [Claude Code](https://github.com/anthropics/claude-code) - Coding tool that runs in your terminal. (proprietary)
 - [Codex CLI](https://github.com/openai/codex) - Coding agent that runs in your terminal.
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - AI agent for the terminal.
+- [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - Google's terminal coding agent, which replaced Gemini CLI in May 2026. (proprietary)
 - [Pi](https://github.com/earendil-works/pi) - Coding agent CLI and agent toolkit.
 - [Crush](https://github.com/charmbracelet/crush) - Terminal coding agent with model and MCP support. (source-available)
 

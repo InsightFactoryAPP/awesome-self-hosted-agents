@@ -31,7 +31,7 @@
 - [OpenCode](https://github.com/anomalyco/opencode) - 终端编程智能体。
 - [Claude Code](https://github.com/anthropics/claude-code) - 在终端运行的编程工具。 (proprietary)
 - [Codex CLI](https://github.com/openai/codex) - 在终端运行的编程智能体。
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 终端 AI 智能体。
+- [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - Google 的终端编程智能体，2026 年 5 月取代了 Gemini CLI。 (proprietary)
 - [Pi](https://github.com/earendil-works/pi) - 编程智能体 CLI 和智能体工具包。
 - [Crush](https://github.com/charmbracelet/crush) - 支持模型和 MCP 的终端编程智能体。 (source-available)
 
