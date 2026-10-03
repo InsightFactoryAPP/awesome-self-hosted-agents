@@ -9,6 +9,7 @@ Add a project you can install on your own Linux box and run as an agent or a ser
 - Source the description from the project's README or GitHub About text.
 - Mark proprietary and source-available projects. State any affiliation.
 - Frameworks must ship a server or runtime. Keep this section to four entries.
+- Agents and coding tools must work with a model you host yourself, not only the vendor's hosted model.
 - Add the same entry to README.zh-CN.md with the same facts.
 
 Run `bash check.sh` before submitting. It flags repos with no commit in 90 days or archived. The rule is still 60 days.
