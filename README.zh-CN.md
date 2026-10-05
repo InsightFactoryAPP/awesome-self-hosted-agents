@@ -4,6 +4,8 @@
 
 可以在自己的机器（Linux 服务器、树莓派或 Mac mini）上运行的智能体及其使用的服务。
 
+标有（由项目维护者提交）的条目由项目的开发者自己添加。没有该标记的条目由本列表收集。
+
 ## 目录
 
 - [智能体运行环境](#智能体运行环境)
@@ -27,8 +29,8 @@
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - 支持终端、MCP 工具和多智能体执行的通用智能体。
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 部署在自己机器上的个人 AI 助手。
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - 带有 Docker 化 Linux 桌面的智能体框架。
-- [5dive](https://github.com/5dive-ai/5dive) - 在你自己的服务器上运行的开源 AI 智能体团队，可运行 Claude Code、Codex、Pi 等。（这是我们做的）
-- [Tale](https://github.com/tale-project/tale) - 用于团队任务、沙箱智能体和交付成果审查的共享项目工作空间。
+- [5dive](https://github.com/5dive-ai/5dive) - 在你自己的服务器上运行的开源 AI 智能体团队，可运行 Claude Code、Codex、Pi 等。（由项目维护者提交）
+- [Tale](https://github.com/tale-project/tale) - 用于团队任务、沙箱智能体和交付成果审查的共享项目工作空间。（由项目维护者提交）
 
 ## 编程智能体
 
