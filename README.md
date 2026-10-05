@@ -29,6 +29,7 @@ Agents and services for agents that you can run on your own box: a Linux server,
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - Agent framework with a Dockerized Linux desktop.
 - [5dive](https://github.com/5dive-ai/5dive) - Open-source AI agent team on a server you own. Runs Claude Code, Codex, Pi and more. (we make this)
 - [Tale](https://github.com/tale-project/tale) - Shared project workspace for team tasks, sandboxed agents, and deliverable review.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs Claude Code, Codex, Cursor, Gemini and Pi as subagents. (we make this)
 
 ## Coding agents
 
