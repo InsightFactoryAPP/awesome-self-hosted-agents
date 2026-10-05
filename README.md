@@ -33,8 +33,8 @@ Agents and services for agents that you can run on your own box: a Linux server,
 ## Coding agents
 
 - [OpenCode](https://github.com/anomalyco/opencode) - Coding agent for the terminal.
-- [Claude Code](https://github.com/anthropics/claude-code) - Coding tool that runs in your terminal. (proprietary)
-- [Codex CLI](https://github.com/openai/codex) - Coding agent that runs in your terminal.
+- [Claude Code](https://github.com/anthropics/claude-code) - Coding tool that runs in your terminal. Point ANTHROPIC_BASE_URL at a model you host. (proprietary)
+- [Codex CLI](https://github.com/openai/codex) - Coding agent that runs in your terminal. Local models via Ollama or LM Studio with --oss.
 - [Pi](https://github.com/earendil-works/pi) - Coding agent CLI and agent toolkit.
 - [goose](https://github.com/aaif-goose/goose) - AI agent with desktop, CLI and API interfaces that works with local Ollama models.
 - [Crush](https://github.com/charmbracelet/crush) - Terminal coding agent with model and MCP support. (source-available)

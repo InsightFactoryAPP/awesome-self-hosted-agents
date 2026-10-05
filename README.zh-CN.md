@@ -33,8 +33,8 @@
 ## 编程智能体
 
 - [OpenCode](https://github.com/anomalyco/opencode) - 终端编程智能体。
-- [Claude Code](https://github.com/anthropics/claude-code) - 在终端运行的编程工具。 (proprietary)
-- [Codex CLI](https://github.com/openai/codex) - 在终端运行的编程智能体。
+- [Claude Code](https://github.com/anthropics/claude-code) - 在终端运行的编程工具。把 ANTHROPIC_BASE_URL 指向你自己部署的模型即可。 (proprietary)
+- [Codex CLI](https://github.com/openai/codex) - 在终端运行的编程智能体。加 --oss 即可通过 Ollama 或 LM Studio 用本地模型。
 - [Pi](https://github.com/earendil-works/pi) - 编程智能体 CLI 和智能体工具包。
 - [goose](https://github.com/aaif-goose/goose) - 提供桌面、CLI 和 API 界面的 AI 智能体，可使用本地 Ollama 模型。
 - [Crush](https://github.com/charmbracelet/crush) - 支持模型和 MCP 的终端编程智能体。 (source-available)
