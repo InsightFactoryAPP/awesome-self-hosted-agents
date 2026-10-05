@@ -8,6 +8,7 @@ Add a project you can install on your own box (a Linux server, a Raspberry Pi or
 - Keep the description at 100 characters or fewer, with plain words and no hype.
 - Source the description from the project's README or GitHub About text.
 - Mark proprietary, source-available and open-core projects. State any affiliation.
+- Submitting your own project is welcome. End its entry with (submitted by its maintainer), and （由项目维护者提交） in README.zh-CN.md.
 - Frameworks must ship a server or runtime. Keep this section to four entries.
 - Agents and coding tools must work with a model you host yourself, not only the vendor's hosted model.
 - Add the same entry to README.zh-CN.md with the same facts.

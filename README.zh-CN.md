@@ -4,6 +4,8 @@
 
 可以在自己的机器（Linux 服务器、树莓派或 Mac mini）上运行的智能体及其使用的服务。
 
+标有（由项目维护者提交）的条目由项目的开发者自己添加。没有该标记的条目由本列表收集。
+
 ## 目录
 
 - [智能体运行环境](#智能体运行环境)
@@ -27,15 +29,15 @@
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - 支持终端、MCP 工具和多智能体执行的通用智能体。
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 部署在自己机器上的个人 AI 助手。
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - 带有 Docker 化 Linux 桌面的智能体框架。
-- [5dive](https://github.com/5dive-ai/5dive) - 在你自己的服务器上运行的开源 AI 智能体团队，可运行 Claude Code、Codex、Pi 等。（这是我们做的）
-- [Tale](https://github.com/tale-project/tale) - 用于团队任务、沙箱智能体和交付成果审查的共享项目工作空间。
-- [YYLO](https://github.com/yylo-dev/yylo) - 可将 Claude Code、Codex、Cursor、Gemini 和 Pi 作为子智能体运行的命令行编排器。（这是我们做的）
+- [5dive](https://github.com/5dive-ai/5dive) - 在你自己的服务器上运行的开源 AI 智能体团队，可运行 Claude Code、Codex、Pi 等。（由项目维护者提交）
+- [Tale](https://github.com/tale-project/tale) - 用于团队任务、沙箱智能体和交付成果审查的共享项目工作空间。（由项目维护者提交）
+- [YYLO](https://github.com/yylo-dev/yylo) - 可将 Claude Code、Codex、Cursor、Gemini 和 Pi 作为子智能体运行的命令行编排器。（由项目维护者提交）
 
 ## 编程智能体
 
 - [OpenCode](https://github.com/anomalyco/opencode) - 终端编程智能体。
-- [Claude Code](https://github.com/anthropics/claude-code) - 在终端运行的编程工具。 (proprietary)
-- [Codex CLI](https://github.com/openai/codex) - 在终端运行的编程智能体。
+- [Claude Code](https://github.com/anthropics/claude-code) - 在终端运行的编程工具。把 ANTHROPIC_BASE_URL 指向你自己部署的模型即可。 (proprietary)
+- [Codex CLI](https://github.com/openai/codex) - 在终端运行的编程智能体。加 --oss 即可通过 Ollama 或 LM Studio 用本地模型。
 - [Pi](https://github.com/earendil-works/pi) - 编程智能体 CLI 和智能体工具包。
 - [goose](https://github.com/aaif-goose/goose) - 提供桌面、CLI 和 API 界面的 AI 智能体，可使用本地 Ollama 模型。
 - [Crush](https://github.com/charmbracelet/crush) - 支持模型和 MCP 的终端编程智能体。 (source-available)

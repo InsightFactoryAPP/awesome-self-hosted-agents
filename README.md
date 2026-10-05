@@ -4,6 +4,8 @@
 
 Agents and services for agents that you can run on your own box: a Linux server, a Raspberry Pi or a Mac mini.
 
+An entry marked (submitted by its maintainer) was added by the people who make the project. Entries without the mark were collected by this list.
+
 ## Contents
 
 - [Agent runtimes](#agent-runtimes)
@@ -27,15 +29,15 @@ Agents and services for agents that you can run on your own box: a Linux server,
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - General-purpose agent with terminal, MCP tools and multi-agent execution.
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Personal AI assistant you deploy on your own machine.
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - Agent framework with a Dockerized Linux desktop.
-- [5dive](https://github.com/5dive-ai/5dive) - Open-source AI agent team on a server you own. Runs Claude Code, Codex, Pi and more. (we make this)
-- [Tale](https://github.com/tale-project/tale) - Shared project workspace for team tasks, sandboxed agents, and deliverable review.
-- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs Claude Code, Codex, Cursor, Gemini and Pi as subagents. (we make this)
+- [5dive](https://github.com/5dive-ai/5dive) - Open-source AI agent team on a server you own. Runs Claude Code, Codex, Pi and more. (submitted by its maintainer)
+- [Tale](https://github.com/tale-project/tale) - Shared project workspace for team tasks, sandboxed agents, and deliverable review. (submitted by its maintainer)
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs Claude Code, Codex, Cursor, Gemini and Pi as subagents. (submitted by its maintainer)
 
 ## Coding agents
 
 - [OpenCode](https://github.com/anomalyco/opencode) - Coding agent for the terminal.
-- [Claude Code](https://github.com/anthropics/claude-code) - Coding tool that runs in your terminal. (proprietary)
-- [Codex CLI](https://github.com/openai/codex) - Coding agent that runs in your terminal.
+- [Claude Code](https://github.com/anthropics/claude-code) - Coding tool that runs in your terminal. Point ANTHROPIC_BASE_URL at a model you host. (proprietary)
+- [Codex CLI](https://github.com/openai/codex) - Coding agent that runs in your terminal. Local models via Ollama or LM Studio with --oss.
 - [Pi](https://github.com/earendil-works/pi) - Coding agent CLI and agent toolkit.
 - [goose](https://github.com/aaif-goose/goose) - AI agent with desktop, CLI and API interfaces that works with local Ollama models.
 - [Crush](https://github.com/charmbracelet/crush) - Terminal coding agent with model and MCP support. (source-available)
